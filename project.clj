@@ -5,4 +5,4 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[ org.clojure/clojure              "1.4.0"  ]
                  [ org.clojars.touch/fleet          "0.10.2" ]
-                 [ noir                             "1.2.2" :exclusions [org.clojure/clojure]]])
+                 [ noir                             "1.3.0" :exclusions [org.clojure/clojure]]])
