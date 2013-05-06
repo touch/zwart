@@ -1,4 +1,4 @@
-(defproject zwart "0.1.2"
+(defproject zwart "0.1.3"
   :description "Noir and Fleet extensions"
   :url "https://github.com/touch/zwart"
   :license {:name "Eclipse Public License"
