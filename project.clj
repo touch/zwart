@@ -5,5 +5,5 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :repositories {"jenkins.onlinetouch.eu" "https://jenkins.onlinetouch.eu/plugin/repository/everything/"}
   :dependencies [[ org.clojure/clojure              "1.5.1"  ]
-                 [ org.clojars.touch/fleet          "0.10.4" ]
-                 [ org.clojars.touch/noir 			"1.3.1" :exclusions [org.clojure/clojure]]])
+                 [ org.clojars.touch/fleet          "0.10.5-SNAPSHOT" ]
+                 [ org.clojars.touch/noir 			"1.3.2-SNAPSHOT" :exclusions [org.clojure/clojure]]])
