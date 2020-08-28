@@ -8,7 +8,6 @@ pipeline {
     }
     stage ('deploy') {
       steps {
-        sh 'printenv'
         sh 'lein deploy upstream'
       }
     }
